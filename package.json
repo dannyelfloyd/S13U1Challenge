@@ -17,7 +17,7 @@
     "url": "https://github.com/dannyelfloyd/S13U1Challenge/issues"
   },
   "homepage": "https://github.com/dannyelfloyd/S13U1Challenge#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
